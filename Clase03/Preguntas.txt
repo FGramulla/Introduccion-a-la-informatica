@@ -1,0 +1,15 @@
+1)Si es posible:
+
+$ mkdir "Infantiles" "Accion" "Terror" "Comedia" "Romanticas"
+
+2)Si es posible: 
+
+$ touch "Intenzamente.txt" "El juego del miedo.xls" "Rapido y furioso.pdf" "Titanic.jpg"
+
+3)Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop/DH (master)
+$ mkdir Peliculas/Romanticas/Prueba
+
+4)Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop/DH/Peliculas/Romanticas (master)
+$ mkdir ../Accion/Prueba2
+
+

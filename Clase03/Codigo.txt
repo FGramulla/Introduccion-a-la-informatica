@@ -1,0 +1,82 @@
+Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop (master)
+$ mkdir DH
+
+Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop (master)
+$ cd DH
+
+Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop/DH (master)
+$ mkdir Peliculas
+
+Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop/DH (master)
+$ cd Peliculas
+
+Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop/DH/Peliculas (master)
+$ mkdir "Infantiles" "Accion" "Terror" "Comedia" "Romanticas"
+
+Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop/DH/Peliculas (master)
+$ cd Infantiles
+
+Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop/DH/Peliculas/Infantiles (master)
+$ touch "Intenzamente.txt" "El juego del miedo.xls" "Rapido y furioso.pdf" "Titanic.jpg"
+
+Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop/DH/Peliculas/Infantiles (master)
+$ cd ..
+
+Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop/DH/Peliculas (master)
+$ cd Accion
+
+Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop/DH/Peliculas/Accion (master)
+$ touch "Smooth criminal.txt" "Diario de una pasion.js" "El hexorcista.xls" "Cars.jpg"
+Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop/DH/Peliculas/Accion (master)
+$ cd ..
+
+Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop/DH/Peliculas (master)
+$ cd Terror
+
+Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop/DH/Peliculas/Terror (master)
+$ touch "La dama y el bagavundo.png" "Yo antes de ti.xls" "Que paso ayer.pdf" "We will rock you.js"
+
+Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop/DH/Peliculas/Terror (master)
+$ cd ..
+
+Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop/DH/Peliculas (master)
+$ cd Comedia
+
+Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop/DH/Peliculas/Comedia (master)
+$ touch "Madagaskar.js" "Orgullo y perjuicio.txt" "IT.xls" "Mision imposible.png"
+
+Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop/DH/Peliculas/Comedia (master)
+$ cd ..
+
+Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop/DH/Peliculas (master)
+$ cd Romanticas
+
+Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop/DH/Peliculas/Romanticas (master)
+$ touch "Pocahontas.jpg" "Annabelle.js" "Los vengadores.js" "La mascara.js"
+
+Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop/DH/Peliculas/Romanticas (master)
+$ cd ..
+
+Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop/DH/Peliculas (master)
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+ Cars.jpg  'Diario de una pasion.js'  'El hexorcista.xls'  'Smooth criminal.txt'
+
+./Comedia:
+ IT.xls   Madagaskar.js  'Mision imposible.png'  'Orgullo y perjuicio.txt'
+
+./Infantiles:
+'El juego del miedo.xls'   Intenzamente.txt  'Rapido y furioso.pdf'   Titanic.jpg
+
+./Romanticas:
+ Annabelle.js  'La mascara.js'  'Los vengadores.js'   Pocahontas.jpg
+
+./Terror:
+'La dama y el bagavundo.png'  'We will rock you.js'
+'Que paso ayer.pdf'           'Yo antes de ti.xls'
+
+Pc Intel Core I5@DESKTOP-PGKDUKC MINGW64 ~/Desktop/DH/Peliculas (master)
+$
